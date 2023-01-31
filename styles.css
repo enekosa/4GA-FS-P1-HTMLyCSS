@@ -1,6 +1,7 @@
 .container{
     width: 600px;
     margin: auto;
+    font-family: 'Roboto', sans-serif;
 }
 .header{
     display: flex;
@@ -11,7 +12,8 @@
     display: flex;
     align-items: center;
     padding: 10px;
-    gap: 10px;   
+    gap: 10px;
+    
 }
 .menu{
     display: flex;
